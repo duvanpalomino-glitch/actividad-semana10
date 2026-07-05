@@ -1,0 +1,15 @@
+Evento: Un intento de pago con tarjeta de crédito es rechazado por el banco (error en la transacción).
+
+Acción :Enviar una notificación automática al canal de Telegram del equipo de soporte técnico y finanzas.
+
+Mensaje: Alerta de Pago Fallido: Intento de compra rechazado en la plataforma.
+Código de error: ERR_402_AUTH.
+
+¿Qué evento activa el flujo?
+R: el evento que activa el flujo es el rechazo de una transacción por parte del banco.
+
+¿Qué mensaje se enviaría a Telegram?
+R: Alerta de Seguridad: Se bloquearon 3 intentos fallidos de inicio de sesión en una cuenta. El acceso ha sido restringido temporalmente por prevención.
+
+¿Qué información no debería enviarse por seguridad?
+R: Datos de Identificación y Contacto, Credenciales y Datos de Acceso, Información Financiera Sensible

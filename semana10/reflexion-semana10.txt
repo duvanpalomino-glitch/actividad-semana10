@@ -1,0 +1,10 @@
+Las metodologías ágiles (como Scrum o Kanban) son perfectas para este entorno 
+porque sustituyen los planes rígidos por estructuras flexibles y colaborativas.
+Ayudan a organizar una comunidad a través de los siguientes pilares. La automatización
+es el motor oculto que permite a una comunidad crecer de forma saludable. En los
+grupos comunitarios, el recurso más valioso y escaso es el tiempo de los voluntarios
+y organizadores. Cuando usas herramientas como n8n, bots o integraciones para automatizar
+procesos, eliminas las tareas repetitivas y aburridas, transformando la organización
+comunitaria a través de estos beneficios clave, y telegram es muy bueno ya que tiene una
+arquitectura interna que esta diseñada específicamente para manejar miles de usuarios 
+de forma ordenada, segura y eficiente.

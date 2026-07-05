@@ -1,0 +1,17 @@
+tarea 1:
+La configuración del entorno y bases de datos 
+(Ej: Conectar la base de datos de usuarios con n8n).
+
+importancia:Si la base de datos o la conexión principal fallan, ninguna otra tarea posterior
+(como enviar correos o dar accesos premium) va a funcionar. Resolver esto primero asegura que 
+los cimientos del proyecto sean estables.
+
+tarea 2:
+La funcionalidad central del negocio o "Camino Crítico"
+(Ej: Crear el formulario de registro e inicio de sesión).
+
+importancia:Un proyecto necesita ser funcional lo antes posible. Es mejor tener un sistema básico
+donde la gente ya pueda registrarse (aunque visualmente sea simple), que tener un diseño hermoso
+donde ningún botón funcione.
+
+para mi que una tarea este termina es un alivio para mi y para mi grupo ya qe nos bajamos una carga.
